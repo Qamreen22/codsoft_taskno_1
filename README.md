@@ -1,8 +1,8 @@
-# Cod Soft UI/UX Internship - Task 1: Mobile App Sign-Up Flow
+# CodSoft UI/UX Internship - Task 1: Mobile App Sign-Up Flow
 
 ## Overview
 
-Welcome to the repository for Task 1 of the UI/UX internship at Cod Soft! This task focuses on designing a mobile app sign-up flow. The repository contains an image and video showcasing the final design.
+Welcome to the repository for Task 1 of the UI/UX internship at CodSoft! This task focuses on designing a mobile app sign-up flow. The repository contains an image and video showcasing the final design.
 
 ## Task Description
 
